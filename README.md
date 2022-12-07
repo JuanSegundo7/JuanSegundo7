@@ -23,7 +23,7 @@
 <a href="https://stackoverflow.com/users/17916543" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17916543" height="30" width="40" /></a>
 <a href="https://instagram.com/juanse_martínez7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="juanse_martínez7" height="30" width="40" /></a>
 </p>
-
+<br>
 <h1 align="center">About Me</h1>
 <p align="center">Welcome to my Linkedin page. I'm a Full-Stack Developer where my main strength is in the Front-end area. In addition i consider myself a sociable teammate, always trying to show my enthusiasm and helping my partners, also i would like to keep growing my knowledge and being useful for real projects.</p>
 <br>
